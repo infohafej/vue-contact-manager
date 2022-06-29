@@ -1,0 +1,11 @@
+npm i font-awesome bootstrap axios
+
+Contact-Manager
+AddContact
+ViewContact
+EditContact
+
+server // json-server
+npm init --yes
+npm i json-server
+
